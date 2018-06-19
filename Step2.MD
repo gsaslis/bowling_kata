@@ -1,0 +1,5 @@
+## Step 2: Simple scoring
+
+Before we get to the complex rules, we must first learn the basics. The total score in a bowling game is simply the sum of all the pins that the bowling ball knocks down, over all the `rolls`. There are 10 `frames` and 2 `rolls` in each frame (and 10 pins to knock down).
+
+Write the test(s) and implement the functionality in your program to keep track of the score. 
