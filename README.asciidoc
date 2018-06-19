@@ -6,6 +6,9 @@ A Kata on TDD, using the rules of the game of Bowling.
 
 You need to setup a new project on your favourite IDE, in your favourite language, where you can write a failing test (and have some way to execute that test). Once you see the the `red` colour of the failing test on your screen, it is time to proceed to the actual exercise.
 
+A really easy way to do this is to clone the Softwerkskammer Berlin Kata Bootstraps repo, which offers you the above in the following languages: link:https://github.com/swkBerlin/kata-bootstraps[C++, C#, Elixir, Java, JavaScript, Go, Kotlin, PHP, Python, Ruby, Rust, Scala]
+
+
 === Once you're done, it's time to go to link:Step1.asciidoc[Step 1]
 
 
