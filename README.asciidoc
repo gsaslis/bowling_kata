@@ -1,0 +1,16 @@
+= Bowling Game TDD Kata
+
+A Kata on TDD, using the rules of the game of Bowling. 
+
+== 0. Setup
+
+You need to setup a new project on your favourite IDE, in your favourite language, where you can write a failing test (and have some way to execute that test). Once you see the the `red` colour of the failing test on your screen, it is time to proceed to the actual exercise.
+
+=== Once you're done, it's time to go to link:Step1.asciidoc[Step 1]
+
+
+== About
+
+This kata is based on the link:http://kata-log.rocks/bowling-game-kata[Kata-Log Bowling Game Kata].
+
+My adaptation is basically in the way the instructions are given, allowing practicioners to more easily apply the `BabySteps` constraint. 
