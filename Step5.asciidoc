@@ -1,0 +1,13 @@
+== Step 5: The tenth frame is special!
+
+In the tenth `frame` a player who rolls a `spare` or `strike` is allowed to roll the extra balls to complete the `frame`. However no more than three balls can be rolled in the tenth `frame`.
+
+And don't forget... Baby Steps!! 
+
+=== Congratulations!! You're done... for now...
+
+But you're never really done with Katas... The point is the practice itself. 
+
+Please feel free to try the kata again, this time imposing link:http://kata-log.rocks/baby-steps[some other constraint].
+
+
